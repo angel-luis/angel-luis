@@ -1,5 +1,4 @@
-<h1 align="center">Angel Luis</h1>
-<h3 align="center">A pragmatic programmer, designer and entrepreneur</h3>
+<h2 align="center">A pragmatic programmer, designer and entrepreneur</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
